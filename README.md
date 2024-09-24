@@ -1,1 +1,1 @@
-# Customer_egmentation
+# Customer_Segmentation
